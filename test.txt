@@ -1,0 +1,3 @@
+Welcome to Edunet foundation
+introduction to pyhton
+introduction to machine learing
